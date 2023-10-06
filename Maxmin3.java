@@ -55,7 +55,7 @@ public class Maxmin3 {
     public void printElements(){
         System.out.println("Máximo:" + Max);
         System.out.println("Mínimo:" + Min);
-        System.out.println("Repetições:" + comparacoes);
+        System.out.println("Comparações:" + comparacoes);
     }
 
 }
